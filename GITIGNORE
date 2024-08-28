@@ -1,0 +1,38 @@
+
+---
+
+### .gitignore
+
+```gitignore
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+ENV/
+env.bak/
+env/
+
+# Editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+Enunciado
+Projeto: Verificação de Maioridade
+
+Desenvolva um script em Python que verifique se uma pessoa é maior ou menor de idade, com base na idade fornecida.
+
+Requisitos:
+
+O script deve solicitar ao usuário a sua idade.
+O script deve verificar se a idade é maior ou igual a 18 anos.
+O resultado da verificação deve ser exibido ao usuário, indicando se ele é maior ou menor de idade.
+Critérios de Avaliação:
+
+Correção da lógica de verificação de maioridade.
+Exibição clara e precisa do resultado.
+Estrutura e clareza do código.
